@@ -1,4 +1,4 @@
-# CSDMS Forum
+# Hello, CSDMS!
 
 This is a place to talk about
 the [Community Surface Dynamics Modeling System][csdms] (CSDMS),
