@@ -16,7 +16,7 @@ The following is a set of guidelines for contributing to the CSDMS Workbench. Th
 
 **Table of Contents**
 
-* Code of Conduct](#code-of-conduct)
+1. [Code of Conduct](#code-of-conduct)
 
 ## Code of Conduct
 
