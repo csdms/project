@@ -10,14 +10,40 @@ The CSDMS Workbench consists of the following core elements:
 * [Landlab](https://landlab.readthedocs.io)
 * [Data Components](https://csdms.colorado.edu/wiki/DataComponents)
 
-as well as several other supporting software projects.
+as well as several other supporting software products.
 
-The following is a set of guidelines for contributing to the CSDMS Workbench. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to the CSDMS Workbench. These are mostly guidelines, not rules. Use your best judgment, and feel free to suggest changes to this document in an issue.
+
+If you just have a question, the best place to ask is the [CSDMS Help Desk](https://csdms.github.io/help-desk/).
 
 **Table of Contents**
 
 1. [Code of Conduct](#code-of-conduct)
+1. [Bug Reports](#bug-reports)
+1. [Feature Requests](#feature-requests)
+1. [Pull Requests](#pull-requests)
+1. [Credits](#credits)
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the CSDMS [Code of Conduct](./CODE-OF-CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to csdms@colorado.edu.
+This project and everyone participating in it is governed by the CSDMS [Code of Conduct](./CODE-OF-CONDUCT.md). By participating, you are expected to uphold this code.
+
+## Bug Reports
+
+## Feature Requests
+
+## Pull Requests
+
+## Credits
+
+Please feel free to adapt and remix this document for your needs.
+
+Much of this document is based on or inspired by the work of others, including:
+
+* [@numpy](https://github.com/numpy)
+* [@atom](https://github.com/atom)
+* [@jessesquires](https://github.com/jessesquires)
+* [@mozillascience](https://github.com/mozillascience)
+
+We commend them for their efforts to facilitate collaboration in their projects.
+
