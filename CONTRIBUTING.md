@@ -1,6 +1,6 @@
 # Contributing to the CSDMS Workbench
 
-Thank you for taking the time to contribute to the CSDMS Workbench, the integrated system of software tools, technologies, and standards developed by CSDMS for building, interfacing, coupling, and running models.
+Thank you for taking the time to contribute to the [CSDMS Workbench](https://csdms.colorado.edu/wiki/Workbench), an integrated system of software tools for building, coupling, and running models.
 The CSDMS Workbench consists of the following core elements: 
 
 * [Basic Model Interface](https://bmi.readthedocs.io) (BMI)
@@ -12,11 +12,9 @@ The CSDMS Workbench consists of the following core elements:
 
 as well as several other supporting software products.
 
-The following is a set of guidelines for contributing to the CSDMS Workbench. These are mostly guidelines, not rules. Use your best judgment, and feel free to suggest changes to this document in an issue.
+What follows is a set of guidelines for contributing to the CSDMS Workbench. Use your best judgment, and feel free to ask us any questions at the [CSDMS Help Desk](https://csdms.github.io/help-desk/).
 
-If you just have a question, the best place to ask is the [CSDMS Help Desk](https://csdms.github.io/help-desk/).
-
-**Table of Contents**
+### Contents
 
 1. [Code of Conduct](#code-of-conduct)
 1. [Bug Reports](#bug-reports)
