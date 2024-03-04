@@ -50,6 +50,11 @@ Finally, please observe the following:
 * Copy/paste text for error messages instead of using screen captures. 
 * Use the GitHub issue web interface for discussing issues instead of replying by email.
 
+Here are a few examples of good bug reports:
+* https://github.com/csdms/bmi/issues/133
+* https://github.com/csdms/bmi-topography/issues/15
+* https://github.com/landlab/landlab/issues/1804
+
 ## Feature Requests
 
 Feature requests are also tracked as [GitHub issues](https://guides.github.com/features/issues/).
@@ -62,6 +67,11 @@ In your request:
 * Explain in detail how it would work.
 * Be precise about the proposed outcome of the feature and how it relates to existing features. Include implementation details if possible.
 * Keep the scope as narrow as possible to make it easier to implement.
+
+Here are a few examples of good feature requests:
+* https://github.com/landlab/landlab/issues/1808
+* https://github.com/csdms/babelizer/issues/77
+* https://github.com/csdms/bmi/issues/118
 
 ## Pull Requests
 
@@ -81,6 +91,11 @@ Some notes on the process:
 * Include unit tests. Follow existing patterns for implementing tests. Make sure new and existing tests pass.
 * Promptly address any CI failures. If your pull request fails to build or pass tests, please push another commit to fix it.
 * Add documentation. Document your changes with code doc comments or in existing guides.
+
+Here are a few examples of good pull requests:
+* https://github.com/csdms/babelizer/pull/85
+* https://github.com/landlab/landlab/pull/1826
+* https://github.com/landlab/landlab/pull/1815
 
 ## Credits
 
