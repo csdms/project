@@ -48,6 +48,16 @@ Include details about your configuration and environment:
 
 ## Feature Requests
 
+Feature requests are tracked as [GitHub issues](https://guides.github.com/features/issues/).
+
+Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check for existing feature requests first. If you find your feature (or one very similar to it), comment on that issue. Do not open a duplicate feature request.
+
+In your request:
+
+* Explain in detail how it would work.
+* Be precise about the proposed outcome of the feature and how it relates to existing features. Include implementation details if possible.
+* Keep the scope as narrow as possible to make it easier to implement.
+
 ## Pull Requests
 
 ## Credits
