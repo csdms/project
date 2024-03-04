@@ -60,6 +60,23 @@ In your request:
 
 ## Pull Requests
 
+[Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) are the mechanism for making changes to a repository. 
+
+Before making a pull request, it's usually best to describe the changes you wish to make with a project maintainer by [creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), or commenting on an existing issue. Because there are only a few people maintaining CSDMS projects, unsolicited pull requests may languish.
+
+When you're ready to propose changes, [fork the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and create a [topic branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) to hold your changes. Then [create the pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+
+Some notes on the process:
+
+* Ensure the pull request description clearly describes the problem and solution. Include any relevant issue numbers.
+* Smaller is better. Submit one pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. Do not refactor or reformat code that is unrelated to your change. It is better to submit many small pull requests rather than a single large one. Enormous pull requests will take enormous amounts of time to review, or may be rejected altogether.
+* Coordinate bigger changes. For large and non-trivial changes, be sure to open an issue to discuss a strategy with the maintainers. Otherwise, you risk doing a lot of work for nothing!
+* Prioritize understanding over cleverness. Write code clearly and concisely. Remember that source code usually gets written once and read often. Ensure the code is clear to the reader. The purpose and logic should be obvious to a reasonably skilled developer.
+* Follow existing coding style and conventions. Keep your code consistent with the style, formatting, and conventions in the rest of the code base. When possible, these will be enforced with a linter and a formatter. Consistency makes it easier to review and modify in the future.
+* Include unit tests. Follow existing patterns for implementing tests. Make sure new and existing tests pass.
+* Promptly address any CI failures. If your pull request fails to build or pass tests, please push another commit to fix it.
+* Add documentation. Document your changes with code doc comments or in existing guides.
+
 ## Credits
 
 Please feel free to adapt and remix this document for your needs.
