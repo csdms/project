@@ -1,14 +1,19 @@
-# Hello, CSDMS!
+# project
 
-This is a place to talk about
-the [Community Surface Dynamics Modeling System][csdms] (CSDMS),
-including its products and services,
-as well as to share ideas and ask questions.
+This repository contains files for use across repositories
+in the [CSDMS][csdms] project.
 
-Start at the [Discussions][discussions] page.
+Files include:
 
-Please follow our posted [code of conduct][conduct].
+* [CODE-OF-CONDUCT.md](./CODE-OF-CONDUCT.md): Describes expected behavior to be followed when participating in a project
+* [CONTRIBUTING.md](./CONTRIBUTING.md): Gives guidelines for contributing to a project
 
+These files are intended to be universal--they can be linked to,
+or their contents can be copy-pasted into an equivalent document
+in another repository.
+
+This repository is also the host for the [CSDMS Forum][discussions].
+
+<!-- Links -->
 [csdms]: https://csdms.colorado.edu
-[discussions]: https://github.com/csdms/hi/discussions
-[conduct]: ./CODE-OF-CONDUCT.rst
+[discussions]: https://github.com/csdms/project/discussions
