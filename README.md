@@ -12,6 +12,8 @@ These files are intended to be universal--they can be linked to,
 or their contents can be copy-pasted into an equivalent document
 in another repository.
 
+The [assets](./assets/) directory contains CSDMS logos.
+
 This repository is also the host for the [CSDMS Forum][discussions].
 
 <!-- Links -->
