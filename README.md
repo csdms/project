@@ -14,8 +14,5 @@ in another repository.
 
 The [assets](./assets/) directory contains CSDMS logos.
 
-This repository is also the host for the [CSDMS Forum][discussions].
-
 <!-- Links -->
 [csdms]: https://csdms.colorado.edu
-[discussions]: https://github.com/csdms/project/discussions
